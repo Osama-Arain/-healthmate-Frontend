@@ -1,6 +1,5 @@
 {
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "https://healthmate-backend-rho.vercel.app/api/$1" },
     { "source": "/(.*)", "destination": "/" }
   ]
 }
